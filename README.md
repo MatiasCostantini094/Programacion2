@@ -7,7 +7,7 @@
 - **Comisión:**   
 
 ## 📂 Descripción del Repositorio  
-Solo Trabajo practico n1
+Trabajos Practricos 
 
 📌 **Estructura del repositorio:**  
 - Cada trabajo está organizado en carpetas individuales.  
